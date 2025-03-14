@@ -1,0 +1,3 @@
+Waf: Entering directory `/home/cspl/ardupilot_redcaps/build/sitl'
+Embedding file sandbox.lua:libraries/AP_Scripting/scripts/sandbox.lua
+12:05:33 [35mrunner[0m ['/usr/bin/git', 'rev-parse', '--short=8', 'HEAD']

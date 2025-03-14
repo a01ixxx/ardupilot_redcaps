@@ -1,0 +1,173 @@
+[0mSetting top to                           :[0m [32m/home/lab/ardupilot_redcaps[0m 
+[0mSetting out to                           :[0m [32m/home/lab/ardupilot_redcaps/build[0m 
+[0mAutoconfiguration                        :[0m [32menabled[0m 
+[0mSetting board to                         :[0m [32msitl[0m 
+[0mUsing toolchain                          :[0m [32mnative[0m 
+[0mChecking for 'g++' (C++ compiler)        :[0m [33mnot found[0m 
+[0mChecking for 'clang++' (C++ compiler)    :[0m [32mclang++[0m 
+[0mChecking for 'gcc' (C compiler)          :[0m [33mnot found[0m 
+[0mChecking for 'clang' (C compiler)        :[0m [32mclang[0m 
+[0mChecking for c flags '-MMD'              :[0m ('[Debug] The task keyword is', 'Compiling')
+[Debug] Runner.py. I am out of the if loop.
+[32myes[0m 
+[0mChecking for cxx flags '-MMD'            :[0m ('[Debug] The task keyword is', 'Compiling')
+[Debug] Runner.py. I am out of the if loop.
+[32myes[0m 
+[0mChecking for need to link with librt     :[0m ('[Debug] The task keyword is', 'Compiling')
+[Debug] Runner.py. I am out of the if loop.
+('[Debug] The task keyword is', 'Linking')
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+('[Debug] Task keyword', 'Linking')
+('[Debug] Task inputs:', [/home/lab/ardupilot_redcaps/build/.conf_check_fd9dfb526faae31c702ce44c3692a615/testbuild/sitl/test.cpp.1.o])
+Test file. Do nothing
+[Debug] Runner.py. I am out of the if loop.
+[32mnot necessary[0m 
+[0mChecking for feenableexcept              :[0m ('[Debug] The task keyword is', 'Compiling')
+[Debug] Runner.py. I am out of the if loop.
+('[Debug] The task keyword is', 'Linking')
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+('[Debug] Task keyword', 'Linking')
+('[Debug] Task inputs:', [/home/lab/ardupilot_redcaps/build/.conf_check_f975ffefa7995a4ecd319153c9e87a5e/testbuild/sitl/test.cpp.1.o])
+Test file. Do nothing
+[Debug] Runner.py. I am out of the if loop.
+[32myes[0m 
+Disabling SLP for clang++
+[0mChecking for HAVE_CMATH_ISFINITE         :[0m ('[Debug] The task keyword is', 'Compiling')
+[Debug] Runner.py. I am out of the if loop.
+('[Debug] The task keyword is', 'Linking')
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+('[Debug] Task keyword', 'Linking')
+('[Debug] Task inputs:', [/home/lab/ardupilot_redcaps/build/.conf_check_d1e4354258ff6cf8325f7025d63070d0/testbuild/sitl/test.cpp.1.o])
+Test file. Do nothing
+[Debug] Runner.py. I am out of the if loop.
+[32myes[0m 
+[0mChecking for HAVE_CMATH_ISINF            :[0m ('[Debug] The task keyword is', 'Compiling')
+[Debug] Runner.py. I am out of the if loop.
+('[Debug] The task keyword is', 'Linking')
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+('[Debug] Task keyword', 'Linking')
+('[Debug] Task inputs:', [/home/lab/ardupilot_redcaps/build/.conf_check_cc1170a64dfbca7825b43a1b4efa9678/testbuild/sitl/test.cpp.1.o])
+Test file. Do nothing
+[Debug] Runner.py. I am out of the if loop.
+[32myes[0m 
+[0mChecking for HAVE_CMATH_ISNAN            :[0m ('[Debug] The task keyword is', 'Compiling')
+[Debug] Runner.py. I am out of the if loop.
+('[Debug] The task keyword is', 'Linking')
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+('[Debug] Task keyword', 'Linking')
+('[Debug] Task inputs:', [/home/lab/ardupilot_redcaps/build/.conf_check_75d00cbbc981b828e652ebcf81bb6a89/testbuild/sitl/test.cpp.1.o])
+Test file. Do nothing
+[Debug] Runner.py. I am out of the if loop.
+[32myes[0m 
+[0mChecking for NEED_CMATH_ISFINITE_STD_NAMESPACE :[0m ('[Debug] The task keyword is', 'Compiling')
+[Debug] Runner.py. I am out of the if loop.
+('[Debug] The task keyword is', 'Linking')
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+('[Debug] Task keyword', 'Linking')
+('[Debug] Task inputs:', [/home/lab/ardupilot_redcaps/build/.conf_check_bc06205a1e7374d1075712cb2631f375/testbuild/sitl/test.cpp.1.o])
+Test file. Do nothing
+[Debug] Runner.py. I am out of the if loop.
+[32myes[0m 
+[0mChecking for NEED_CMATH_ISINF_STD_NAMESPACE    :[0m ('[Debug] The task keyword is', 'Compiling')
+[Debug] Runner.py. I am out of the if loop.
+('[Debug] The task keyword is', 'Linking')
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+('[Debug] Task keyword', 'Linking')
+('[Debug] Task inputs:', [/home/lab/ardupilot_redcaps/build/.conf_check_7ae49df32b41d7ec9763fd3c93edc401/testbuild/sitl/test.cpp.1.o])
+Test file. Do nothing
+[Debug] Runner.py. I am out of the if loop.
+[32myes[0m 
+[0mChecking for NEED_CMATH_ISNAN_STD_NAMESPACE    :[0m ('[Debug] The task keyword is', 'Compiling')
+[Debug] Runner.py. I am out of the if loop.
+('[Debug] The task keyword is', 'Linking')
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+('[Debug] Task keyword', 'Linking')
+('[Debug] Task inputs:', [/home/lab/ardupilot_redcaps/build/.conf_check_e4898602752396897ae42bf3872faf18/testbuild/sitl/test.cpp.1.o])
+Test file. Do nothing
+[Debug] Runner.py. I am out of the if loop.
+[32myes[0m 
+[0mChecking for header endian.h                   :[0m ('[Debug] The task keyword is', 'Compiling')
+[Debug] Runner.py. I am out of the if loop.
+('[Debug] The task keyword is', 'Linking')
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+('[Debug] Task keyword', 'Linking')
+('[Debug] Task inputs:', [/home/lab/ardupilot_redcaps/build/.conf_check_07543b23c87393ab38dabe2c40cd9de4/testbuild/sitl/test.cpp.1.o])
+Test file. Do nothing
+[Debug] Runner.py. I am out of the if loop.
+[32myes[0m 
+[0mChecking for header byteswap.h                 :[0m ('[Debug] The task keyword is', 'Compiling')
+[Debug] Runner.py. I am out of the if loop.
+('[Debug] The task keyword is', 'Linking')
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+('[Debug] Task keyword', 'Linking')
+('[Debug] Task inputs:', [/home/lab/ardupilot_redcaps/build/.conf_check_0adf7e3d1838fa86be6d3989350f4fca/testbuild/sitl/test.cpp.1.o])
+Test file. Do nothing
+[Debug] Runner.py. I am out of the if loop.
+[32myes[0m 
+[0mChecking for HAVE_MEMRCHR                      :[0m ('[Debug] The task keyword is', 'Compiling')
+[Debug] Runner.py. I am out of the if loop.
+('[Debug] The task keyword is', 'Linking')
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+('[Debug] Task keyword', 'Linking')
+('[Debug] Task inputs:', [/home/lab/ardupilot_redcaps/build/.conf_check_18529190d7d90291f41523f531c1c195/testbuild/sitl/test.cpp.1.o])
+Test file. Do nothing
+[Debug] Runner.py. I am out of the if loop.
+[32myes[0m 
+[0mChecking for program 'python'                  :[0m [32m/usr/bin/python[0m 
+[0mChecking for python version >= 2.7.0           :[0m [32m2.7.18[0m 
+[0mChecking for program 'python'                  :[0m [32m/usr/bin/python[0m 
+[0mChecking for python version >= 2.7.0           :[0m [32m2.7.18[0m 
+[0mSource is git repository                       :[0m [32myes[0m 
+[0mUpdate submodules                              :[0m [32myes[0m 
+[0mChecking for program 'git'                     :[0m [32m/usr/bin/git[0m 
+[0mChecking for program 'size'                    :[0m [32m/usr/bin/size[0m 
+[0mBenchmarks                                     :[0m [33mdisabled[0m 
+[0mUnit tests                                     :[0m [32menabled[0m 
+[0mScripting                                      :[0m [32menabled[0m 
+[0mScripting runtime checks                       :[0m [32menabled[0m 
+[0mChecking for program 'rsync'                   :[0m [32m/usr/bin/rsync[0m 
+'configure' finished successfully (1.969s)
+Waf: Entering directory `/home/lab/ardupilot_redcaps/build/sitl'
+Embedding file sandbox.lua:libraries/AP_Scripting/scripts/sandbox.lua
+22:04:56 [35mrunner[0m ['/usr/bin/git', 'rev-parse', '--short=8', 'HEAD']
+22:04:57 [35mrunner[0m ('/usr/bin/git', 'submodule', 'status', '--recursive', '--', '/home/lab/ardupilot_redcaps/modules/gtest')
+22:04:57 [35mrunner[0m ('/usr/bin/git', 'submodule', 'status', '--recursive', '--', '/home/lab/ardupilot_redcaps/modules/mavlink')
+Waf: Leaving directory `/home/lab/ardupilot_redcaps/build/sitl'
+
+BUILD SUMMARY
+Build directory: /home/lab/ardupilot_redcaps/build/sitl
+22:04:57 [35mrunner[0m ['/usr/bin/size', 'bin/arducopter']
+Target          Text     Data  BSS    Total  
+---------------------------------------------
+bin/arducopter  2626577  9052  84448  2720077
+
+Build commands will be stored in build/sitl/compile_commands.json
+'build' finished successfully (1.137s)
+RiTW: Starting ArduCopter : /home/lab/ardupilot_redcaps/build/sitl/bin/arducopter -S -I0 --model + --speedup 1 --defaults /home/lab/ardupilot_redcaps/Tools/autotest/default_params/copter.parm
+RiTW: Window access not found, logging to /tmp/ArduCopter.log
+Connect tcp:127.0.0.1:5760 source_system=255
+Loaded module console
+Failed to load module: No module named map. Use 'set moddebug 3' in the MAVProxy console to enable traceback
+Log Directory: 
+Telemetry log: mav.tlog
+Waiting for heartbeat from tcp:127.0.0.1:5760
+ MAV> MAV> APM: ArduCopter V4.0.8 (5c268e6b)
+APM: 25ae7b55550e49ea8d6ae27967d0b826
+APM: Frame: QUAD
+online system 1
+STABILIZE> Mode STABILIZE
+Received 1197 parameters
+Saved 1197 parameters to mav.parm
+APM: Barometer 1 calibration complete
+Init Gyro***
+
+Ready to FLY APM: GPS 1: detected as u-blox at 115200 baud
+APM: EKF2 IMU0 initial yaw alignment complete
+APM: EKF2 IMU1 initial yaw alignment complete
+APM: EKF2 IMU0 tilt alignment complete
+APM: EKF2 IMU1 tilt alignment complete
+APM: EKF2 IMU0 origin set
+APM: EKF2 IMU1 origin set
+APM: EKF2 IMU0 is using GPS
+APM: EKF2 IMU1 is using GPS
+Flight battery 100 percent

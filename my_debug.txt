@@ -1,0 +1,3 @@
+CC=clang CXX=clang++ ./waf copter -v -j1 | tee compilation_logs
+./2_link_as_one_bitcode.sh
+llvm-dis /home/lab/ardupilot_redcaps/build/sitl/after_cmpt.bc -o /home/lab/ardupilot_redcaps/build/sitl/after_cmpt.ll
