@@ -1,6 +1,10 @@
 ./pre_compile.sh
 ./link_as_one_bitcode.sh
 
+## task name list file
+cp task_cmpt.txt /tmp/
+
+
 curr_dir=$(pwd)
 analysis_pass="$curr_dir/../Gecko/SVF/Release-build/tools/recovery_pass/cmpt_analysis/libCMPTAnalysis.so"
 llvm_output_json_file="$curr_dir/build/sitl/analysis_result.json"
