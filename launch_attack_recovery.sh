@@ -22,7 +22,7 @@ tmux split-window -h -t "$SESSION_NAME:0"
 COMMANDS_WINDOW1=(
     "cp gps_data.txt /tmp/"
     "pkill arducopter"
-    "sudo ~/Gecko/checkpoint_restore/criu/criu restore -D /mnt/ramdisk --shell-job"
+    "sudo ~/Gecko/checkpoint_restore/criu/criu restore -D /tmp --shell-job"
     "0"
 )
 
