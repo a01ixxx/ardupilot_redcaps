@@ -23,7 +23,7 @@ COMMANDS_WINDOW1=(
     "cp gps_data.txt /tmp/"
     "pkill arducopter"
     "sudo ~/Gecko/checkpoint_restore/criu/criu restore -D /tmp --shell-job"
-    "0"
+    "0"  ## replace this by your own password
 )
 
 for CMD in "${COMMANDS_WINDOW1[@]}"; do
